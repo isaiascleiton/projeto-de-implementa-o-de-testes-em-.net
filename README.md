@@ -1,0 +1,2 @@
+# Testes_projeto_vaquinha
+Projeto entregue para a finalização do Bootcamp Decola Dev Avanade 2021 onde foi criado um projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC.
